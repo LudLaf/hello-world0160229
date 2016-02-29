@@ -7,4 +7,4 @@ if x < 10 :
 else :
 print "non't"
 
-aca van los second second changes made al readme del branch llamado 'second second'
+ahora van los changes del tird tird  
